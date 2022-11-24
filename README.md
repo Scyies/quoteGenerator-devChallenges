@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://quote-generator-dev-challenges-henna.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Scyies/quoteGenerator-devChallenges">
       Solution
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 
 Here's my solution and how I got there!
 
-- You can see the demo [here](https://windbnb-liard.vercel.app/)
+- You can see the demo [here](https://quote-generator-dev-challenges-henna.vercel.app/)
 - I had a fun time building this project, it wasn't that big of a challenge but I had to stop and think on the best way to do some things.
 - Unlimited bug works
 
@@ -52,6 +52,7 @@ Here's my solution and how I got there!
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
 
 ## Features
 
@@ -67,7 +68,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/scyies/quoteGenerator-devChallenges
+$ git clone https://github.com/Scyies/quoteGenerator-devChallenges
 
 # Install dependencies
 $ npm install
